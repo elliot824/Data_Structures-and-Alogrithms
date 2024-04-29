@@ -38,4 +38,3 @@ This network simulation provides a straightforward but efficient method for enga
 Authors
 -
 This program was constructed and compiled by Elliot Andrews(220033323) and Aidan Reid(221013539)
-This program was constructed and compiled by Elliot Andrews(220033323) and Aidan Reid(221013539)
